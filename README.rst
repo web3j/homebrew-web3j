@@ -17,7 +17,7 @@ Add the tap, and install:
    brew install web3j
 
    
-Run the web3j executable.
+Run the web3j executable:
 
 .. code-block:: bash
 
@@ -32,7 +32,7 @@ Run the web3j executable.
                             _/ |
                            |__/
    
-   Usage: web3j wallet|solidity ...
+   Usage: web3j version|wallet|solidity ...
 
 
 Refer to the `web3j documentation <http://docs.web3j.io/command_line.html>`_ for further information.
