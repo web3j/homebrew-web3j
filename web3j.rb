@@ -2,9 +2,9 @@
 class Web3j < Formula
   desc "web3j command line tools for Ethereum"
   homepage "https://github.com/web3j/web3j"
-  url "https://github.com/web3j/web3j-cli/releases/download/v4.5.7/web3j-4.5.7.zip"
+  url "https://github.com/web3j/web3j-cli/releases/download/v4.5.8/web3j-4.5.8.zip"
   # update with: shasum -a 256
-  sha256 "b6b8f23718b359577c481b7d5ca2a74b397d0a77180a9bbc6bbd4918a089f50e"
+  sha256 "343b4e7fb9453294289335890563a66e72067a182c06fa3ae8b3faa055808547"
 
   depends_on :java => "1.7+"
 
