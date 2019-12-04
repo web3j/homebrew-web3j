@@ -4,7 +4,7 @@ class Web3j < Formula
   homepage "https://github.com/web3j/web3j"
   url "https://github.com/web3j/web3j-cli/releases/download/v4.5.9/web3j-4.5.9.zip"
   # update with: shasum -a 256
-  sha256 "e1b8cad9998a80aeb2da55f747c51bcf7e5dcceb166c541d2bc29a1655d9463f"
+  sha256 "51413d24797a44c625035aa3dbadabe9e32e70d9994bf76c2ce71f49ca5c7615"
 
   depends_on :java => "1.7+"
 
